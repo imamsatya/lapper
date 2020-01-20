@@ -1,6 +1,6 @@
-# Quasar App (laporan_persediaan)
+# Lapper App (laporan_persediaan)
 
-A Quasar Framework app
+Aplikasi Sederhana untuk membuat laporan persediaan
 
 ## Install the dependencies
 ```bash
