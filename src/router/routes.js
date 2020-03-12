@@ -33,6 +33,17 @@ const routes = [
     }]
   },
   {
+    path: '/rekap2',
+    meta: {
+      kunci: true
+    },
+    component: () => import('layouts/S-Layout.vue'),
+    children: [{
+      path: '',
+      component: () => import('pages/S-Rekap_copy.vue')
+    }]
+  },
+  {
     path: '/about',
     meta: {
       kunci: true

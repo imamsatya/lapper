@@ -1,6 +1,6 @@
 # Lapper App (laporan_persediaan)
 
-Aplikasi Sederhana untuk membuat laporan persediaan
+Aplikasi Sederhana untuk membuat laporan persediaan X
 
 ## Install the dependencies
 ```bash
